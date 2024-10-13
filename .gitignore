@@ -1,0 +1,19 @@
+# CLion specific
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# CMake specific
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+
